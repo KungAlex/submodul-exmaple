@@ -1,2 +1,4 @@
-# submodul-exmaple
-submodul-exmaple testing git submodul workflow
+### submodule-example testing git submodule workflow
+
+TODO see parent-repo https://github.com/KungAlex/parent-repo.git
+
